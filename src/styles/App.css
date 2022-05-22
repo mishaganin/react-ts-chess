@@ -39,3 +39,14 @@
 .white {
     background-color: rgb(224, 226, 114);
 }
+
+.selected {
+    background-color: brown;
+}
+
+.available {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: green;
+}
